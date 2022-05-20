@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 ###### HaHaHaHa...
 1. 👯 Hello!
-2. 🤔 I go to school by bus!
+2. 🤔 I go to school by bus!  
+*Italic Text~*  
+**Bold Text~**
+I am ~~handsome~~ good~
+Someone say I am good:
+> peter: Flow is handsome~
 ## This is Steve!!
 ![Steve](https://minecraftbuildinginc.com/wp-content/uploads/2016/12/Minecraft-Steve-Derp-Face-how-strong.jpg "This is Steve!")
