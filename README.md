@@ -28,7 +28,7 @@ Someone say I am good:
 
 ```mermaid
 graph TD;
-    1-->Hard 2;
+    1-->2;
     1-->3;
     2-->4;
     2-->5;
