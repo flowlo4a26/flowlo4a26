@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 *Italic Text~*  
 **Bold Text~**
 I am ~~handsome~~ good~
-Someone say I am good:
-> peter: Flow is handsome~
+Someone say I am good:  
+> peter: Flow is handsome~  
+- [x] Diamond
+- [ ] Gold
+- [ ] \(Let's try!)Iron
 ## This is Steve!!
 ![Steve](https://minecraftbuildinginc.com/wp-content/uploads/2016/12/Minecraft-Steve-Derp-Face-how-strong.jpg "This is Steve!")
