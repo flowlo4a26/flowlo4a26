@@ -25,12 +25,13 @@ Someone say I am good:
 - [x] Diamond
 - [ ] Gold
 - [ ] Iron  
+
 ```mermaid
 graph TD;
-    Study-->Hard working;
-    Study-->Lazy;
-    Hard working-->Good Performance;
-    Lazy--> Bad result;
+    1-->Hard 2;
+    1-->3;
+    2-->4;
+    2-->5;
 ```  
 ## This is Steve!!
 ![Steve](https://minecraftbuildinginc.com/wp-content/uploads/2016/12/Minecraft-Steve-Derp-Face-how-strong.jpg "This is Steve!")
