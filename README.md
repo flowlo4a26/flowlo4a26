@@ -31,7 +31,7 @@ graph TD;
     1-->2;
     1-->3;
     2-->4;
-    2-->5;
+    3-->5;
 ```  
 ## This is Steve!!
 ![Steve](https://minecraftbuildinginc.com/wp-content/uploads/2016/12/Minecraft-Steve-Derp-Face-how-strong.jpg "This is Steve!")
