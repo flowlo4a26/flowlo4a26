@@ -24,6 +24,13 @@ Someone say I am good:
 > peter: Flow is handsome~  
 - [x] Diamond
 - [ ] Gold
-- [ ] Iron
+- [ ] Iron  
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```  
 ## This is Steve!!
 ![Steve](https://minecraftbuildinginc.com/wp-content/uploads/2016/12/Minecraft-Steve-Derp-Face-how-strong.jpg "This is Steve!")
