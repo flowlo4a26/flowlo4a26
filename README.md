@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 1. 👯 Hello!
 2. 🤔 I go to school by bus!  
 *Italic Text~*  
-**Bold Text~**
-I am ~~handsome~~ good~
+**Bold Text~**  
+I am ~~handsome~~ good~  
 Someone say I am good:  
 > peter: Flow is handsome~  
 - [x] Diamond
 - [ ] Gold
-- [ ] \(Let's try!)Iron
+- [ ] \(Let's try!)  Iron
 ## This is Steve!!
 ![Steve](https://minecraftbuildinginc.com/wp-content/uploads/2016/12/Minecraft-Steve-Derp-Face-how-strong.jpg "This is Steve!")
