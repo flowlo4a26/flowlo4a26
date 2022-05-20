@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+1. 👯 Hello!
+2. 🤔 I go to school by bus!
+![Steve](https://minecraftbuildinginc.com/wp-content/uploads/2016/12/Minecraft-Steve-Derp-Face-how-strong.jpg "This is Steve!")
